@@ -45,8 +45,6 @@ export const zodValidator = <
 
       next();
     } catch (error) {
-      console.log(error);
-
       next(error);
     }
   };
