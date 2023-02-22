@@ -1,6 +1,6 @@
 {
   "name": "express-zod-swagger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Express + Zod + Swagger",
   "keywords": [
     "express",
