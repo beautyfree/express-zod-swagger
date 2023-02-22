@@ -2,7 +2,6 @@ import type { NextFunction, Request, RequestHandler, Response } from 'express';
 import type core from 'express-serve-static-core';
 import type { AnyZodObject, ZodTypeAny } from 'zod';
 
-
 export type Responses = { [x: number]: ZodTypeAny };
 
 export interface ZodValidatorProps {
